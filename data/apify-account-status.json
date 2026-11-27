@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-11-27T04:13:36.740Z",
-  "configured": true,
+  "checkedAt": "2026-11-27T08:02:55.447Z",
+  "configured": false,
   "ok": false,
   "provider": "apify",
   "accountApiConsumesActorCredits": false,
-  "error": "User was not found or authentication token is not valid"
+  "error": "APIFY_API_TOKEN is not configured"
 }
