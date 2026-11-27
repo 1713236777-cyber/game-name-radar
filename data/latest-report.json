@@ -1,16 +1,16 @@
 {
-  "scannedAt": "2026-11-27T08:19:10.051Z",
+  "scannedAt": "2026-11-27T08:23:44.517Z",
   "targetMarket": "US_GLOBAL",
   "primaryMarket": "US",
   "referenceMarket": "WORLDWIDE",
-  "totalAdded": 38,
+  "totalAdded": 33,
   "sources": [
     {
       "ok": true,
       "sourceId": "itch-newest-web",
       "sourceName": "itch.io 最新网页游戏",
       "total": 36,
-      "added": 9
+      "added": 0
     },
     {
       "ok": true,
@@ -20,10 +20,11 @@
       "added": 0
     },
     {
-      "ok": false,
+      "ok": true,
       "sourceId": "itch-new-feed",
       "sourceName": "itch.io New Feed",
-      "error": "远程站点返回 429"
+      "total": 36,
+      "added": 15
     },
     {
       "ok": true,
@@ -44,7 +45,7 @@
       "sourceId": "steam-popular-new",
       "sourceName": "Steam 热门新发行",
       "total": 50,
-      "added": 29
+      "added": 0
     },
     {
       "ok": true,
@@ -86,7 +87,7 @@
       "sourceId": "y8-new",
       "sourceName": "Y8 新游戏",
       "total": 72,
-      "added": 0
+      "added": 18
     },
     {
       "ok": false,
@@ -105,23 +106,23 @@
   "seoVerified": 25,
   "seoErrors": 0,
   "fastModelVersion": 3,
-  "fastPassedCount": 368,
+  "fastPassedCount": 376,
   "fastWatchCount": 221,
-  "fastRejectedCount": 184,
+  "fastRejectedCount": 188,
   "youtubeEnabled": false,
   "youtubeConfigured": false,
   "youtubeVerified": 0,
   "youtubeErrors": 0,
-  "trendsVerified": 30,
+  "trendsVerified": 0,
   "trendErrors": 0,
   "trendBatchRan": true,
   "trendQueueSize": 0,
   "risingDiscoveryRan": false,
   "seoModelVersion": 5,
   "trendModelVersion": 4,
-  "seoPassedCount": 627,
+  "seoPassedCount": 631,
   "trendEligibleCount": 272,
-  "trendPendingCount": 272,
+  "trendPendingCount": 243,
   "trendValidatedCount": 394,
   "risingCount": 3,
   "globalRisingCount": 0,
@@ -146,12 +147,12 @@
     "day": "2026-11-27",
     "dayUsed": 30,
     "monthlyLimit": 230,
-    "dailyLimit": 30,
+    "dailyLimit": 8,
     "updatedAt": "2026-11-27T08:22:00.148Z"
   },
   "apifyConfigured": false,
   "apifyAccountStatus": {
-    "checkedAt": "2026-11-27T08:19:09.050Z",
+    "checkedAt": "2026-11-27T08:23:43.625Z",
     "configured": false,
     "ok": false,
     "provider": "apify",
@@ -170,7 +171,7 @@
   "seoProvider": "duckduckgo-html",
   "seoProviderCounts": {
     "evidence-fallback": 413,
-    "duckduckgo+autocomplete": 118,
+    "duckduckgo+autocomplete": 126,
     "serper+autocomplete": 247
   },
   "serperConfigured": false,
@@ -200,15 +201,15 @@
   },
   "siteTypeModelVersion": 2,
   "siteTypeCounts": {
-    "online": 1975,
-    "wiki": 238,
-    "pending": 787
+    "online": 1997,
+    "wiki": 237,
+    "pending": 766
   },
   "wikiPrelaunchModelVersion": 2,
   "wikiPrelaunchCounts": {
     "priority": 0,
     "prepare": 1,
-    "watch": 4,
+    "watch": 3,
     "weak": 233
   },
   "serperVerification": {
@@ -222,7 +223,7 @@
     "limit": 90,
     "onlineLimit": 63,
     "wikiLimit": 27,
-    "queueSize": 90,
+    "queueSize": 86,
     "verified": 0,
     "verifiedByChannel": {
       "online": 0,
@@ -232,34 +233,29 @@
     "errors": 0,
     "quotaStopped": false,
     "verifiedNames": [],
-    "ranAt": "2026-11-27T08:19:44.653Z"
+    "ranAt": "2026-11-27T08:24:18.201Z"
   },
   "evidenceSeoFallback": {
     "enabled": true,
     "limit": 180,
-    "pendingCount": 2227,
-    "eligibleCount": 4,
-    "queueSize": 4,
-    "verified": 4,
+    "pendingCount": 2215,
+    "eligibleCount": 0,
+    "queueSize": 0,
+    "verified": 0,
     "channelVerified": {
       "online": 0,
-      "wiki": 4,
+      "wiki": 0,
       "pending": 0
     },
     "fastRecalculated": {
       "pass": 0,
       "watch": 0,
-      "weak": 4,
+      "weak": 0,
       "reject": 0,
       "pending": 0
     },
-    "verifiedNames": [
-      "Cozy Game Restoration",
-      "Potato Please",
-      "Can 'Em All",
-      "SULFUR"
-    ],
-    "ranAt": "2026-11-27T08:19:45.479Z"
+    "verifiedNames": [],
+    "ranAt": "2026-11-27T08:24:18.856Z"
   },
   "socialBuzzVerification": {
     "modelVersion": 3,
@@ -281,16 +277,16 @@
       "x": 0,
       "tiktok": 0
     },
-    "ranAt": "2026-11-27T08:19:46.733Z"
+    "ranAt": "2026-11-27T08:24:19.850Z"
   },
   "serpApiAccountStatus": {
-    "checkedAt": "2026-11-27T08:19:46.934Z",
+    "checkedAt": "2026-11-27T08:24:20.013Z",
     "accountApiConsumesSearchCredits": false,
     "configuredKeys": 1,
     "workingKeys": 1,
     "uniqueAccountCount": 1,
     "duplicateKeyGroups": [],
-    "totalIndependentSearchesLeft": 237,
+    "totalIndependentSearchesLeft": 207,
     "accounts": [
       {
         "accountFingerprint": "9b5f127ff61a",
@@ -299,8 +295,8 @@
         ],
         "planName": "Free Plan",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 13,
-        "totalSearchesLeft": 237,
+        "thisMonthUsage": 43,
+        "totalSearchesLeft": 207,
         "renewalDate": "2026-12-04"
       }
     ],
@@ -317,11 +313,11 @@
         "planMonthlyPrice": 0,
         "renewalDate": "2026-12-04",
         "searchesPerMonth": 250,
-        "thisMonthUsage": 13,
-        "planSearchesLeft": 237,
-        "totalSearchesLeft": 237,
+        "thisMonthUsage": 43,
+        "planSearchesLeft": 207,
+        "totalSearchesLeft": 207,
         "rateLimitPerHour": 250,
-        "checkedAt": "2026-11-27T08:19:46.934Z",
+        "checkedAt": "2026-11-27T08:24:20.013Z",
         "sharedAccount": false,
         "sharedWithSlots": []
       },
@@ -375,19 +371,19 @@
   "serpApiQuotaFill": {
     "enabled": true,
     "configuredSlots": 1,
-    "remainingAtStart": 30,
-    "queueSize": 414,
-    "verified": 30,
+    "remainingAtStart": 0,
+    "queueSize": 0,
+    "verified": 0,
     "errors": 0,
-    "quotaStopped": true,
+    "quotaStopped": false,
     "tierCounts": {
-      "strong": 30,
+      "strong": 0,
       "secondary": 0,
       "strategic": 0
     },
     "channelVerified": {
-      "online": 29,
-      "wiki": 1,
+      "online": 0,
+      "wiki": 0,
       "pending": 0
     },
     "pendingByTier": {
@@ -399,38 +395,7 @@
       "online": 314,
       "wiki": 70
     },
-    "verifiedNames": [
-      "Needle In A Haystack",
-      "My Army Base",
-      "Obby Climb and Jump Tower",
-      "Survive-ish",
-      "Word Solitaire",
-      "Obby Rainbow Parkour Two Player",
-      "RACE: Rocket Arena Car Extreme",
-      "Obby Keyboard Escape",
-      "GORILGO FPS Online Shooter",
-      "Obby: +1 Laser to Break Walls",
-      "Noob vs Pro : Drift Tag",
-      "SWAT: Squad Tactics",
-      "Obby: +1 Digging Power per Click",
-      "ASMR Halloween Makeover",
-      "Deep Drill Run",
-      "Coloring: Mosaic by Symbols",
-      "Break The Noob Completely!",
-      "My Little Kingdom",
-      "Cubes Match 3 Quest",
-      "Sprunki(?)",
-      "dear passengers",
-      "Pieces of Escape",
-      "BLOCK RUSH",
-      "Arrow Escape",
-      "Ellies Thanksgiving Feast Party",
-      "Cars vs Zombies",
-      "Color Clash",
-      "Plinko RNG",
-      "My Glam Hair Salon",
-      "Crowd Rush"
-    ],
+    "verifiedNames": [],
     "caps": {
       "online": 999,
       "wiki": 999,
@@ -442,17 +407,17 @@
         "envName": "SERPAPI_API_KEY",
         "ok": true,
         "error": null,
-        "verified": 30,
+        "verified": 0,
         "channelVerified": {
-          "online": 29,
-          "wiki": 1,
+          "online": 0,
+          "wiki": 0,
           "pending": 0
         },
         "errors": 0,
-        "quotaStopped": true
+        "quotaStopped": false
       }
     },
-    "ranAt": "2026-11-27T08:22:02.764Z"
+    "ranAt": "2026-11-27T08:24:20.599Z"
   },
   "serpApiConfiguredSlots": 1,
   "serpApiPoolUsage": {
@@ -463,18 +428,18 @@
     "day": "2026-11-27",
     "dayUsed": 30,
     "monthlyLimit": 230,
-    "dailyLimit": 30,
+    "dailyLimit": 8,
     "accounts": {
       "1": {
         "envName": "SERPAPI_API_KEY",
         "monthUsed": 30,
         "dayUsed": 30,
         "monthlyLimit": 230,
-        "dailyLimit": 30,
+        "dailyLimit": 8,
         "updatedAt": "2026-11-27T08:22:00.148Z"
       }
     },
-    "updatedAt": "2026-11-27T08:22:02.813Z"
+    "updatedAt": "2026-11-27T08:24:20.696Z"
   },
   "searchApiConfigured": false,
   "searchApiTrendsUsage": {
@@ -517,6 +482,6 @@
     },
     "verifiedNames": [],
     "errorNames": [],
-    "ranAt": "2026-11-27T08:22:03.474Z"
+    "ranAt": "2026-11-27T08:24:21.199Z"
   }
 }
