@@ -32,8 +32,8 @@ jobs:
       SEO_REGION: US
       SEO_LANGUAGE: en-US
 
-      # Disable direct/free Google verification paths.
-      SEO_VERIFY_LIMIT: 0
+      # Free DuckDuckGo fallback path (used when SERPER_API_KEY is absent).
+      SEO_VERIFY_LIMIT: 30
       SEO_EXPAND_LIMIT: 0
       TRENDS_VERIFY_LIMIT: 0
       YOUTUBE_VERIFY_LIMIT: 0
