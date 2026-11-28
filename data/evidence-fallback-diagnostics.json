@@ -1,86 +1,87 @@
 {
-  "generatedAt": "2026-11-27T18:14:46.214Z",
+  "generatedAt": "2026-11-28T01:30:16.545Z",
   "totalCandidates": 3000,
-  "pendingSeo": 2204,
+  "pendingSeo": 2194,
   "channelCounts": {
-    "pending": 623,
+    "pending": 602,
     "wiki": 12,
-    "online": 1569
+    "online": 1580
   },
   "fastClassCounts": {
-    "pending:pending": 623,
+    "pending:pending": 602,
     "wiki:pending": 12,
-    "online:pending": 1569
+    "online:pending": 1580
   },
   "strategicCounts": {
-    "pending:0": 614,
+    "pending:0": 593,
     "wiki:0": 3,
     "online:3": 7,
-    "online:2": 620,
-    "online:1": 942,
-    "wiki:1": 9,
+    "online:2": 621,
+    "online:1": 952,
+    "wiki:2": 1,
+    "wiki:1": 8,
     "pending:1": 9
   },
   "topSources": [
     {
       "id": "itch-new",
-      "count": 1504
+      "count": 1514
     },
     {
       "id": "itch-newest-web",
-      "count": 1487
+      "count": 1497
     },
     {
       "id": "itch-new-feed",
-      "count": 1432
+      "count": 1442
     },
     {
       "id": "itch-new-popular-web",
-      "count": 621
+      "count": 623
     },
     {
       "id": "itch-popular",
-      "count": 621
+      "count": 623
     },
     {
       "id": "trends-rising-7d",
-      "count": 517
+      "count": 493
     },
     {
       "id": "trends-rising-30d",
-      "count": 369
+      "count": 344
     },
     {
       "id": "trends-rising-7d-horror-game",
-      "count": 243
-    },
-    {
-      "id": "trends-rising-30d-horror-game",
-      "count": 198
+      "count": 225
     },
     {
       "id": "trends-rising-7d-indie-game",
-      "count": 189
+      "count": 186
     },
     {
-      "id": "trends-rising-30d-indie-game",
-      "count": 104
+      "id": "trends-rising-30d-horror-game",
+      "count": 183
     },
     {
       "id": "trends-rising-7d-itch-io",
-      "count": 103
+      "count": 99
+    },
+    {
+      "id": "trends-rising-30d-indie-game",
+      "count": 98
     },
     {
       "id": "trends-rising-30d-itch-io",
-      "count": 82
+      "count": 77
     },
     {
       "id": "steam-latest-indie",
-      "count": 40
+      "count": 41
     },
     {
       "id": "steam-new",
-      "count": 40
+      "count": 41
     },
     {
       "id": "newgrounds-daily-top",
@@ -380,24 +381,22 @@
       ]
     },
     {
-      "name": "Incremental Pain Profit",
+      "name": "Bottle Flip: the Definitive Experience",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
-      "discoveryScore": 18,
+      "discoveryScore": 17,
       "platforms": 1,
       "browserPlayable": true,
-      "nameRisk": 0,
+      "nameRisk": 4,
       "strategicCount": 2,
-      "sourceCount": 7,
+      "sourceCount": 5,
       "sourceIds": [
         "itch-newest-web",
         "itch-new",
         "itch-new-feed",
         "itch-new-popular-web",
-        "itch-popular",
-        "steam-latest-indie",
-        "steam-new"
+        "itch-popular"
       ]
     },
     {
@@ -507,6 +506,27 @@
     },
     {
       "name": "Long Dives",
+      "channel": "online",
+      "fastClass": "pending",
+      "fastScore": 0,
+      "discoveryScore": 16,
+      "platforms": 1,
+      "browserPlayable": true,
+      "nameRisk": 0,
+      "strategicCount": 2,
+      "sourceCount": 7,
+      "sourceIds": [
+        "itch-newest-web",
+        "itch-new",
+        "itch-new-feed",
+        "itch-new-popular-web",
+        "itch-popular",
+        "steam-latest-indie",
+        "steam-new"
+      ]
+    },
+    {
+      "name": "Incremental Pain Profit",
       "channel": "online",
       "fastClass": "pending",
       "fastScore": 0,
@@ -1100,25 +1120,6 @@
       "platforms": 1,
       "browserPlayable": true,
       "nameRisk": 5,
-      "strategicCount": 2,
-      "sourceCount": 5,
-      "sourceIds": [
-        "itch-newest-web",
-        "itch-new",
-        "itch-new-feed",
-        "itch-new-popular-web",
-        "itch-popular"
-      ]
-    },
-    {
-      "name": "Debug the Monolith",
-      "channel": "online",
-      "fastClass": "pending",
-      "fastScore": 0,
-      "discoveryScore": 15,
-      "platforms": 1,
-      "browserPlayable": true,
-      "nameRisk": 6,
       "strategicCount": 2,
       "sourceCount": 5,
       "sourceIds": [
